@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atrabilis
-- 👀 I’m interested in Electronics and Cybersecurity.
-- 🌱 I’m currently learning Python, Java and C++ fluency.
+- 👀 I’m interested in Electronics, AI and Cybersecurity.
+- 🌱 I’m currently learning Python, Bash and exploring Machine learning.
 - 📫 How to reach me: angel.bruno.andrade.osorio@gmail.com 
 
 <!---
