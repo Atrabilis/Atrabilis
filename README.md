@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Atrabilis
-- 👀 I’m interested in Electronics, AI and Cybersecurity.
-- 🌱 I’m currently learning Python, Bash and exploring Machine learning.
-- 📫 How to reach me: angel.bruno.andrade.osorio@gmail.com 
+- Hi, I’m @Atrabilis
+- I’m interested in Electronics, AI and Cybersecurity.
+- How to reach me: angel.bruno.andrade.osorio@gmail.com 
 
 <!---
 Atrabilis/Atrabilis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
