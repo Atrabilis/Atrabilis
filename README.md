@@ -1,5 +1,5 @@
 - Hi, I’m @Atrabilis
-- I’m interested in Electronics, AI and Cybersecurity.
+- I’m interested in Electronics, Software Development and Cybersecurity.
 - How to reach me: angel.bruno.andrade.osorio@gmail.com 
 
 <!---
